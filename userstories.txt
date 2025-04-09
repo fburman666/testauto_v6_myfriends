@@ -1,0 +1,7 @@
+Som en användare vill jag kunna visa lista med alla mina vänner så att jag kan skryta om hur många jag har
+Som en användare vill jag kunna ändra uppgifter för en vän så att info är rätt om vännerna ändrar status
+Som en användare vill jag kunna ta bort en vän så att listan är rätt ifall vännen blir en ovän
+Som en användare vill jag kunna söka efter vänner baserat på namn, oberoende av stora eller små bokstäver så att sökningen blir enkel
+Som en användare vill jag kunna söka efter vänner baserat på e-post, oberoende av stora eller små bokstäver så att sökningen blir enkel
+Som en användare vill jag kunna lägga till ny vän så att jag får många vänner
+Som en användare vill jag kunna se om formuläret visar ett felmeddelande när inte båda (ny vän-)fälten är ifyllda så att jag ser att något gick fel
