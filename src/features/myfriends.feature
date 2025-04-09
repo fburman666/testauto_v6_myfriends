@@ -6,7 +6,7 @@ Feature: Lägga till och hantera vänner i "mina vänner" appen
     Then listan med vänner visas
 
   #Som en användare vill jag kunna ändra uppgifter för en vän så att info är rätt när vännerna ändrar status
-  Scenario: Editering av väninfo
+  Scenario: Editering av vännen Datas email
     Given användaren är inloggad på "friends"-sidan
     When användaren klickar på "Ändra" för vännen "Data"
     And användaren ändrar email till: "paranoid.android.data@starfleet.com"
